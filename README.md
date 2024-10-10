@@ -8,6 +8,7 @@ Document Object Model(DOM) is the modelling of an HTML/XML document as a hierarc
 To render a document such as a HTML page, most web browsers use an internal model similar to the DOM. The nodes of every document are organized in a tree structure, called the DOM tree, with the topmost node (a.k.a root node) named as "Document object". When an HTML page is rendered in browsers, the browser downloads the HTML into local memory and automatically parses it to display the page on screen.
 
 <h2>Elements as nodes</h2>
+
 - Each element node has a tag name, attributes, and can contain other element nodes or text nodes as children.
 - Text content within an element is represented as a text node in the DOM tree. They always appear as leaf nodes in the DOM tree.
 - Attributes of an element are represented as properties of the element node in the DOM tree.
