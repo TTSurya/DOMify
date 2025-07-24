@@ -88,6 +88,8 @@ int main() {
 }
 
 /*
+Output:
+
 <html>
   <body>
     <h1>
