@@ -50,7 +50,7 @@ To render a document such as a HTML page, most web browsers use an internal mode
 ```
 
 <h2>Manipulating the DOM tree</h2>
-The DOM tree can be manipulated using JavaScript or other programming languages. Common tasks include navigating the tree, adding, removing, and modifying nodes, and getting and setting the properties of nodes. The DOM API provides a set of methods and properties to perform these operations, such as <b>getElementById</b>, <b>createElement</b>, <B>appendChild</B>, and <B>innerHTML</B>.
+The DOM tree can be manipulated using JavaScript or other programming languages. Common tasks include navigating the tree, adding, removing, and modifying nodes, and getting and setting the properties of nodes. The Javascript DOM API provides a set of methods and properties to perform these operations, such as <b>getElementById</b>, <b>createElement</b>, <B>appendChild</B>, and <B>innerHTML</B>.
 
 <h2>References</h2>
 https://en.wikipedia.org/wiki/Document_Object_Model
